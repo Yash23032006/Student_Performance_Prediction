@@ -82,7 +82,7 @@ with st.form("prediction_form"):
 
     submitted = st.form_submit_button(
         "Predict Final Percentage", 
-        width = "streach"
+        width = "stretch"
     )
 
 if submitted:
